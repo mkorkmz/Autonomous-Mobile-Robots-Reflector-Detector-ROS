@@ -14,5 +14,5 @@ https://github.com/ros-planning/navigation.git
 
   ## Video
 Click image to link to YouTube video.  
-[![video](https://github.com/mkorkmz/Autonomous-Mobile-Robots-Reflector-Detector-ROS/blob/main/amr.png?raw=true)](https://youtu.be/_1Ka61er1XY)   
+[![](https://github.com/mkorkmz/Autonomous-Mobile-Robots-Reflector-Detector-ROS/blob/main/amr.png?raw=true)](https://youtu.be/_1Ka61er1XY)   
 
